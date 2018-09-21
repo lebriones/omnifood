@@ -1,2 +1,2 @@
 # omnifood
-Jonas Schmedtmann's website tutorial
+Jonas Schmedtmann's Udemy course tutorial
